@@ -1,0 +1,22 @@
+#main2{
+    border: solid;
+    text-align: center;
+    margin-left:30%;margin-right:30%;margin-top:0%;margin-bottom: 10%;
+    padding-top:3%;
+    padding-bottom:2%;
+    background-color: aqua;
+}
+.d{
+    font-size: 22px;
+    text-align: left;
+    font-weight: bold;
+}
+input{
+    height: 30px;
+}
+.r{
+    margin-bottom: 30px;
+}
+.t{
+    margin-bottom: 30px;
+}

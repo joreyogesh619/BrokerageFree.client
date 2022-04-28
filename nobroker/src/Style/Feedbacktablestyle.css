@@ -1,0 +1,10 @@
+.table-fixed{
+    width: 100%;
+    background-color: #f3f3f3;
+    font-size: 25px;
+}
+th{
+    float:left;
+   background-color: #f39c12;
+   border-color:#e67e22;
+  }

@@ -1,0 +1,27 @@
+.a{
+    display: grid;
+    border: solid 5px;
+    grid-template-columns: 1fr 1fr;
+    color: black;
+    row-gap: 2px;
+    column-gap:2px;
+}
+.iteam{
+    align-content: center;
+    background-color: aqua;
+    text-align: left;
+    font-size: 30px;
+    
+}
+.iteam1{
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.iteam2{
+    grid-row-start: 2;
+    grid-row-end: 8;
+}
+.iteam11{
+    font-size: 30px;
+}
